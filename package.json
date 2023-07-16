@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "uuid": "88117e35-e9f5-457e-9fd1-07e878bb3393",
+  "creator": {
+    "version": "3.7.3"
+  },
+  "dependencies": {
+    "@onflow/fcl": "^1.3.2",
+    "@onflow/fcl-wc": "^1.0.0",
+    "@onflow/transport-grpc": "^1.1.1",
+    "@onflow/types": "1.0.3",
+    "bignumber.js": "^9.1.1",
+    "d3-force": "^3.0.0"
+  },
+  "description": ""
+}
